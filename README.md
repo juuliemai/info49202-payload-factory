@@ -4,6 +4,8 @@ Sheridan ISS Grad Project 2020
 # Setup
 1. Generate the hex equivalent of your IP address (the address where the reverse shell will be sent back to)
 
+![Generate-IP-Hex](https://github.com/juuliemai/info49202-payload-factory/blob/master/generate-ip-hex.png)
+
 2. Add it to the code
 
 # Malicious Executable
