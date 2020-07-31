@@ -1,6 +1,11 @@
 # info49202-payload-factory
 Sheridan ISS Grad Project 2020
 
+Files
+- *core-powershell.ps1:* Obfuscated PowerShell written by paranoidninja
+- *macro.vbs:* VBScript to be embedded into Microsoft document
+- *invoice.docx* (**WARNING**): a sample Microsoft Word document with embedded malicious macro
+
 # Setup
 1. Generate the hex equivalent of your IP address (the address where the reverse shell will be sent back to)
 
